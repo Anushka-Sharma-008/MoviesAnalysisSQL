@@ -47,8 +47,6 @@ This project performs in-depth SQL-based analysis on the MovieLens dataset — a
 ## 📁 Folder Structure
 ```
 MoviesAnalysisSQL/
-│
-├── movies.csv
 ├── Project_log.pdf
 ├── Questions.md
 └── README.md
