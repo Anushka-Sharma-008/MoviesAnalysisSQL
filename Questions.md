@@ -1,4 +1,4 @@
-**📘 Phase 1: Simple Analysis (Beginner)**
+**📘 Phase 1: Simple Analysis**
 
 1. List the first 10 movies with their genres.
 2. Show all distinct genres in the dataset.
